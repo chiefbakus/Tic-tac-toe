@@ -105,25 +105,11 @@ function init(){
       
     })
     
-    // if (winner === null) {
-    //   const playerTurn = turn === 1 ?  "Player 1":  "Player 2"
-    //   messageEl.textContent = playerTurn + "'s turn"
-
-    //   } else if (winner === "T") {
-    //   messageEl.textContent = "Tie Game!"
-    // } else {
-    //     const playerWin = turn === 1 ? "Player 2": "Player 1"
-    //     messageEl.textContent = `Congrats! ${playerWin}`
-    // }
+  
 }
 
 
 
-  
-// Step 5 - Define the required constants
-
-  // a) In a constant called `winningCombos` define the eight possible winning 
-  //    combinations as an array of arrays.
 
   const winningCombos = 
   [
